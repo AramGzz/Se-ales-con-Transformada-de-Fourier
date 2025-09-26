@@ -1,5 +1,6 @@
 # Se-ales-con-Transformada-de-Fourier
-Objetivo del proyecto
+OBJETIVO DEL PROYECTO
+
 El propósito de este proyecto es analizar señales en el dominio del tiempo y en el dominio de la frecuencia utilizando Python y la Transformada de Fourier. A través de este análisis, se busca entender cómo se representa una señal en ambos dominios y cómo se pueden identificar características importantes al aplicar la Transformada de Fourier (FFT).
 
 Señales simuladas
